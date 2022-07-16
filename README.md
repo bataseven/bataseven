@@ -4,7 +4,6 @@
 - 📖 Currently, I am studying for a master's degree.
 - 🤖 My area of research is robotics and haptics.
 - 🚩 I love working on complex engineering projects.
-- ⚡ Fun fact: I am a cross continental swimmer 🏊‍♂️.
 
 
 
