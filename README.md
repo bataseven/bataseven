@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Berke Ataseven
 
 - 👨‍🎓 I've completed my bachelor's degree in mechanical engineering (2015-2020).
-- 📖 Currently, I am studying for a master's degree.
-- 🤖 My area of research is robotics and haptics.
-- 🚩 I love working on complex engineering projects.
+- 🔭 I have completed my master's degree, focusing on robotics and haptics research (2020-2023).
+- ✈️ Currently I work  for GE Aerospace as a design engineer.
+- 🚩 I love working on complex engineering projects in my free time.
 - ⚡ Fun fact: I am a cross continental swimmer 🏊‍♂️.
 
 
